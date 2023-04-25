@@ -30,4 +30,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        run: npm run deploy -- -r git@github.com:lauxdl/lemon-module07-manual-gh-pages-deploy.git
+        run: npm run deploy -- -r git@github.com:lauxdl/lemon-module07-gh-pages-deploy.git
